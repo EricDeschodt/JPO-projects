@@ -1,0 +1,30 @@
+                                                                                                   
+                                                                                1                  
+##################################################################################################Z
+                                                                                2                  
+                                    O                        1                                   
+##################################################################################################E
+
+This if how my formating works :
+
+# <---- represents approximately 20 pixels. (a full layer is 2000 px).
+        There's only 2 heigts, you can't be more precise with the y pos.
+        You must fill 100 columns with spaces even if there is nothing more on the layer.
+        If you don't, distances won't be correct.
+
+Z <---- represents the end of a layer (You must place it).
+
+E <---- represents the end of the map (You must place it).
+
+O <---- represents a standing obstacle (It's a capital o not a zero).
+
+1 <---- represents a coin.
+
+2 <---- represents a flying monster.
+
+Try to respect this map formating to avoid segmentation faults.
+(If you try to do a fully flat map you'll automatically win so put something somewhere).
+
+If you want to test your map, launch the game with your map as an argument and click play.
+
+Have fun building your own !

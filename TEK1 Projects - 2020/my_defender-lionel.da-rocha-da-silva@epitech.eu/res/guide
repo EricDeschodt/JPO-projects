@@ -1,0 +1,45 @@
+GAME OBJECTIVE
+
+The goal of the game is to protect the castle from the monsters.
+In order to do that you can buy towers and place them on the slots available.
+The towers will attack the monsters every seconds if the monster is in the range
+of the tower.
+You will earn gold and your score will increase for every monster you kill.
+You have five wves of monsters to kill;
+If the life of your castle reaches 0, you will loose;
+
+MENU
+
+In the min menu you can select the map that you want by clicking 'LEVELS', click
+the map that you want and click 'BACK' or press 'ESC'
+To see the best scores click 'SCORE' and click 'BACK' or press 'ESC' to return
+to the main menu.
+If you click 'SETTINGS' you can change the volume by clicking the volume bar
+and dragging it and choose the framerate limit by clicking one of the options, then
+click 'BACK' or press 'ESC' to return.
+If you click 'QUIT' you will close the game.
+Click 'PLAY' to launch the game.
+
+HOW TO PLAY
+
+Select a slot and click it to open the tower menu.
+In the tower menu you can see the different types of tower and their stats.
+Click on the tower that you want to buy it.
+Click the 'NEXT WAVE' button to send the wave;
+You can upgrade the towers by clicking on them, this will open the menu of the
+tower in question.
+Click 'Upgrade' to upgrade your tower.
+If you press 'ESC' the game will pause.
+To resume the game click 'RESUME' or press 'ESC'.
+To return to the main menu click 'MENU', this will restart the game and will not save
+your score;
+To exit the game click 'QUIT'.
+
+
+GAMEOVER
+
+When the game is over you will see the three best scores.
+If you want to restart click 'RESTART', this will take you to the menu where you
+can play again.
+If you want to quit just click 'QUIT.
+

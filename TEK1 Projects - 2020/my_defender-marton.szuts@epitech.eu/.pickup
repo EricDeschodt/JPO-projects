@@ -1,0 +1,42 @@
+Repo: ramassage-tek@git.epitech.eu:/marton.szuts@epitech.eu/MUL_my_defender_2019
+City: NCE
+Status: Success
+Logs: [0/3] OK. 
+Date: Mon, 01 Jun 2020 12:41:14
+Remote Branches:
+  origin/HEAD -> origin/master
+  origin/master
+Local Branches:
+* master
+Git graph && Last commit:
+*   commit 34796a8aebb3b59fa066a100b9c02b165e71ae90
+|\  Merge: 24cd675 3a9221b
+| | Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+| | Date:   Sun Mar 15 22:01:52 2020 +0100
+| | 
+| |     Merge branch 'master' of git.epitech.eu:/marton.szuts@epitech.eu/MUL_my_defender_2019
+| | 
+| * commit 3a9221b9ddff6e4e78e828a04a1c3b75e1589215
+| | Author: Marton Szuts <mszuts@oncodepasnous.home>
+| | Date:   Sun Mar 15 21:55:15 2020 +0100
+| | 
+| |     Coding style final push
+| | 
+* | commit 24cd675c11e8b1e27044a1621f87a23f41568ba0
+| | Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+| | Date:   Sun Mar 15 21:59:22 2020 +0100
+| | 
+| |     Pause correction
+| |   
+* |   commit 0f6da21ce2269329fe5e8678fa800c2d0fed0178
+|\ \  Merge: b894ff0 ebfce69
+| |/  Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+| |   Date:   Sun Mar 15 21:08:40 2020 +0100
+| |   
+| |       Merge branch 'master' of git.epitech.eu:/marton.szuts@epitech.eu/MUL_my_defender_2019
+| | 
+| * commit ebfce69bfb7b2924a8fb525abaee416b9d54a6c1
+| | Author: Marton Szuts <mszuts@oncodepasnous.home>
+| | Date:   Sun Mar 15 20:59:22 2020 +0100
+| | 
+| |     last push

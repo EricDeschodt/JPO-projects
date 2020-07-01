@@ -1,0 +1,4 @@
+*.a
+*.o
+my_defender*
+*.vgcore

@@ -1,0 +1,47 @@
+{
+    "files.associations": {
+        "*.asm": "asm-collection",
+        "button.h": "c",
+<<<<<<< HEAD
+        "my_game.h": "c"
+=======
+        "text.h": "c",
+        "defender.h": "c",
+<<<<<<< HEAD
+        "my_menu.h": "c",
+        "array": "cpp",
+        "atomic": "cpp",
+        "bit": "cpp",
+        "*.tcc": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "exception": "cpp",
+        "algorithm": "cpp",
+        "memory": "cpp",
+        "memory_resource": "cpp",
+        "optional": "cpp",
+        "random": "cpp",
+        "string_view": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "functional": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "numeric": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "system_error": "cpp",
+        "tuple": "cpp",
+        "typeinfo": "cpp"
+=======
+        "my_menu.h": "c"
+>>>>>>> ab3cdee98831050ef95fe61a23fc8f8592bfa341
+>>>>>>> 11e133d3aecfa3a10aea56e012ac4c9e41ccfc8b
+    }
+}

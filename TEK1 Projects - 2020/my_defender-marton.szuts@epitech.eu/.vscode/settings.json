@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "string_view": "c",
+        "array": "c",
+        "deque": "c",
+        "vector": "c",
+        "sstream": "c",
+        "cmath": "c",
+        "utils.h": "c",
+        "defender.h": "c",
+        "functional": "c",
+        "istream": "c",
+        "ostream": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c"
+    }
+}

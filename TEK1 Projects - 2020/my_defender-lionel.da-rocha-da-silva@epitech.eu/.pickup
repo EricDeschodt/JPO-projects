@@ -1,0 +1,41 @@
+Repo: ramassage-tek@git.epitech.eu:/lionel.da-rocha-da-silva@epitech.eu/MUL_my_defender_2019
+City: NCE
+Status: Success
+Logs: [0/3] OK. 
+Date: Mon, 01 Jun 2020 12:40:37
+Remote Branches:
+  origin/HEAD -> origin/master
+  origin/master
+Local Branches:
+* master
+Git graph && Last commit:
+* commit be1881890bf64cbac6cb407422dd4d522817ad79
+| Author: Lionel Silva <lionel.da-rocha-da-silva@epitech.eu>
+| Date:   Sun Mar 15 20:18:48 2020 +0000
+| 
+|     adding -h
+| 
+* commit 5cb40599198f2e5631b75e8cb57080feb8449868
+| Author: Lionel Silva <lionel.da-rocha-da-silva@epitech.eu>
+| Date:   Thu Mar 12 00:08:30 2020 +0000
+| 
+|     adjusting atk values
+| 
+* commit 2b7743e05211e1912d4e3bf7ab2f03788198314a
+| Author: Lionel Silva <lionel.da-rocha-da-silva@epitech.eu>
+| Date:   Wed Mar 11 15:56:14 2020 +0000
+| 
+|     fixing style
+|   
+*   commit fa202cb2878e4c567fc7e05e9b0f03f5345db6e8
+|\  Merge: 270a9c7 5f8e02b
+| | Author: Lionel Silva <lionel.da-rocha-da-silva@epitech.eu>
+| | Date:   Wed Mar 11 09:28:38 2020 +0000
+| | 
+| |     Merge branch 'master' of git.epitech.eu:/lionel.da-rocha-da-silva@epitech.eu/MUL_my_defender_2019
+| | 
+| * commit 5f8e02bc57c1ae55e2a5b23c1959e7956f42198a
+|   Author: Khaldro <adlan.sadou@epitech.eu>
+|   Date:   Wed Mar 11 09:24:10 2020 +0100
+|   
+|       code refactoring

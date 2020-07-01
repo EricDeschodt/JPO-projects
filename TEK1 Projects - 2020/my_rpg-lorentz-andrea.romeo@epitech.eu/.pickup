@@ -1,0 +1,40 @@
+Repo: ramassage-tek@git.epitech.eu:/lorentz-andrea.romeo@epitech.eu/MUL_my_rpg_2019
+City: NCE
+Status: Success
+Logs: [0/3] OK. 
+Date: Thu, 07 May 2020 12:45:37
+Remote Branches:
+  origin/HEAD -> origin/master
+  origin/master
+Local Branches:
+* master
+Git graph && Last commit:
+* commit 9e73dde3393999459397759e8bdf741a29875197
+| Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+| Date:   Thu May 7 12:22:16 2020 +0200
+| 
+|     removed debug event
+| 
+* commit aa3c0fc244335f5da8b1c428a5d568d06f199a48
+| Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+| Date:   Thu May 7 12:05:03 2020 +0200
+| 
+|     Corrected the chatbox and the quest not triggering at stage 5 ....
+| 
+* commit faed0cad393cc6818afe644112a255c93ade22dc
+| Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+| Date:   Sun May 3 23:41:18 2020 +0200
+| 
+|     Header and orthograph correction
+| 
+* commit 350acd737c9dc8ff79b6174949c5b9d8d4050c82
+| Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+| Date:   Sun May 3 23:34:44 2020 +0200
+| 
+|     Fixed draw order and valgrind
+| 
+* commit 8ea34c7ed6a528fa38661ae6f0c7ff8d9ce52956
+  Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+  Date:   Sun May 3 23:16:00 2020 +0200
+  
+      Should be the final version of the game

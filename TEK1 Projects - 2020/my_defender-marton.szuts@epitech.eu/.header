@@ -1,0 +1,81 @@
+USAGE
+    ./my_defender
+    ./my_defender -h (To display usage)
+
+DESCRIPTION
+    [MY_DEFENDER]
+
+Our game is inspired by the mobile game Infinitode 2.
+The Goal is to survive all the waves.
+The waves are composed of 3 types of enemies, circles, squares, and triangles.
+
+(The arrows moving at the begining of the level aren't enemies,
+there are showing you the way ennemies will come).
+
+Your goal is to protect the base from enemies.
+If an ennemy hits the base you lose 2 hitpoints. (You only have 20)
+
+To stop enemy waves you'll need to place turrets in a smart way.
+In this game there are four types of turrets :
+
+-> The Basic (48 gold)
+1v1 type turret with medium rate of fire, medium damage and medium range.
+
+-> The Big Bertha (60 gold)
+Area of effect type turret with high damage, low rate of fire and short range.
+
+-> The Sniper (80 gold)
+1v1 type turret with high damage, very low rate of fire and very high range.
+
+-> The Frozen (80 gold)
+Area of effect type turret with the ability to slow down enemies around.
+
+You'll face the same X waves on all maps.
+Some maps are really hard to complete.
+
+FEATURES
+    <-------------------------Menu and interface------------------------->
+- A menu with sliding buttons on the right side.
+- An oportunity to continue the current game after getting back to the menu.
+- A map selector screen with all your custom maps loaded to.
+
+- A settings menu with the ability to stop sounds, music.
+Able or disable shaders and the secret "Eric mode".
+Chose between 30, 60 or 120 fps.
+- A custom map editor where you'll have a graphical interface to build your own maps.
+- A statistics menu.
+
+    <-------------------------Custom map editor------------------------->
+To build a map you'll need to respect theese 2 rules.
+->Place at least 1 spawner and one castle.
+->Do only one possible path.
+To place a tile first clic on a square and then chose the type of tile you want to place.
+(The four type of tiles you can place are displayed on the right side).
+Thanks to the editor you'll be able to undo, reset and save your maps.
+
+    <-------------------------In game------------------------->
+- The ability to clic and select all the map tiles to get information.
+
+- A slider menu that you can deploy with the button on the bottom right.
+(This button is only visible if you clic on a tile).
+The slider's interface depends on witch tile you are clicking on.
+
+- The ability to place turrets by double clicking them in the side menu.
+Before and after placing a turret you can chose witch type of enemy you want to attack.
+You can chose between the first in range, the last in range, the weakest,
+the strongest and the closest.
+A turret will only change his target if the enemy is out of range or dead.  
+You can upgrade your turrets (3 times max) with money (This type of upgrade only depends on money).
+Your turret will gain xp by killing enemies (if you sell the turret you'll lose it's xp).
+If a turret reaches level 3 you'll be able to chose a special ability for you turret in the slider menu.
+
+- The ability to pause the game.
+- You will see the statistics of your turret by clicking on it and openning the slider.
+- You can launch waves with the wave button on the bottom left.
+- Your current wave, your money, and lives are displayed on the HUD on top.
+
+CONTROLS
+    LEFT ARROW To turn down the sound.
+    RIGHT ARROW To turn up the sound.
+    ESCAPE To pause the game.
+    MOUSE LEFT CLIC To everything else.

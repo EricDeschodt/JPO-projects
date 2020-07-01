@@ -1,0 +1,40 @@
+Repo: ramassage-tek@git.epitech.eu:/pierre.bastiani@epitech.eu/MUL_my_rpg_2019
+City: NCE
+Status: Success
+Logs: [0/3] OK. 
+Date: Thu, 07 May 2020 12:45:37
+Remote Branches:
+  origin/HEAD -> origin/master
+  origin/master
+Local Branches:
+* master
+Git graph && Last commit:
+* commit ddf593494cd439bd3879694de24a8941e0259805
+| Author: bastiani <pierre.bastiani@epitech.eu>
+| Date:   Sun May 3 23:30:57 2020 +0200
+| 
+|     norm
+| 
+* commit 26b05f7f6fd073f26443bce1d405046fdd8d2c94
+| Author: bastiani <pierre.bastiani@epitech.eu>
+| Date:   Sun May 3 22:58:52 2020 +0200
+| 
+|     norm
+| 
+* commit 8c49ed59fb602bc63ac2b014bea081ac83615465
+| Author: bastiani <pierre.bastiani@epitech.eu>
+| Date:   Sun May 3 22:51:08 2020 +0200
+| 
+|     norm
+| 
+* commit 5bdf0a837a24507e283f050e9ad10dcad956ab63
+| Author: bastiani <pierre.bastiani@epitech.eu>
+| Date:   Sun May 3 22:50:45 2020 +0200
+| 
+|     norm
+| 
+* commit e37705e72601e80e343dcf6957f0a9523fec59ef
+  Author: bastiani <pierre.bastiani@epitech.eu>
+  Date:   Sun May 3 22:49:13 2020 +0200
+  
+      norm

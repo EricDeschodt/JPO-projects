@@ -1,0 +1,40 @@
+Repo: ramassage-tek@git.epitech.eu:/lorentz-andrea.romeo@epitech.eu/MUL_my_runner_2019
+City: NCE
+Status: Success
+Logs: [0/3] OK. 
+Date: Mon, 17 Feb 2020 12:32:31
+Remote Branches:
+  origin/HEAD -> origin/master
+  origin/master
+Local Branches:
+* master
+Git graph && Last commit:
+* commit bfc5af04cc562b4037a34470ad9b636edcc56966
+| Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+| Date:   Sun Jan 12 23:40:31 2020 +0100
+| 
+|     map design
+| 
+* commit f455e2141e14315b9ef4af2b1cc7fa1cf2c3ebed
+| Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+| Date:   Sun Jan 12 23:15:47 2020 +0100
+| 
+|     Added day and night cycle, score, score saving, game over, victory, end of map, menu and more, need to do some map design
+| 
+* commit c25b253ea75d2e829ca11dea1e40ee4f7c028095
+| Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+| Date:   Tue Jan 7 10:50:01 2020 +0100
+| 
+|     This is a test
+| 
+* commit c70c07d391ac21b30032deb287e71ad6098aa4c8
+| Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+| Date:   Tue Dec 31 03:17:53 2019 +0100
+| 
+|     Header correction
+| 
+* commit 08c0907baf290d1b0e54834db3ff76f948411d4f
+  Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+  Date:   Tue Dec 31 03:15:50 2019 +0100
+  
+      Day and night cycle added, working bot that can finish levels, lots of sounds added, pause working, lot of tweaks, norme compliant, flying zombie red fading upon death, rotating skulls which act as coins that can be picked up added, 50 seconds hard level, 2600 lines

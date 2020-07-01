@@ -1,0 +1,40 @@
+Repo: ramassage-tek@git.epitech.eu:/lorentz-andrea.romeo@epitech.eu/MUL_my_hunter_2019
+City: NCE
+Status: Success
+Logs: [0/3] OK. 
+Date: Mon, 17 Feb 2020 11:51:49
+Remote Branches:
+  origin/HEAD -> origin/master
+  origin/master
+Local Branches:
+* master
+Git graph && Last commit:
+* commit 5b1b6ba433a07fa69e0d505fcc41d30918e55bf2
+| Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+| Date:   Sun Dec 1 00:43:58 2019 +0100
+| 
+|     Norme correction
+| 
+* commit 0a5fc8384c775d6859cd8d58d096567daf5a1a74
+| Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+| Date:   Fri Nov 29 16:15:24 2019 +0100
+| 
+|     Correction norme
+| 
+* commit 450bd00c038298f2a2c6c840694f958be1322623
+| Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+| Date:   Fri Nov 29 14:45:29 2019 +0100
+| 
+|     Correction norme
+| 
+* commit 049930e253f74da7ce782d0600d8630fad845c06
+| Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+| Date:   Wed Nov 27 00:09:55 2019 +0100
+| 
+|     Corrected header, corrected 1 nested branching
+| 
+* commit 9323e01fc38cc687a431d287c78caca8a2db3e79
+  Author: Lorentz ROMEO <lorentz-andrea.romeo@epitech.eu>
+  Date:   Sun Nov 24 23:00:17 2019 +0100
+  
+      Could do : add better GAME OVER, add falling animation, add points animation, add duck sound, add blinking red duck at end of a round

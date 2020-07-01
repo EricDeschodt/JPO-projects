@@ -1,0 +1,40 @@
+Repo: ramassage-tek@git.epitech.eu:/marton.szuts@epitech.eu/MUL_my_runner_2019
+City: NCE
+Status: Success
+Logs: [0/3] OK. 
+Date: Mon, 17 Feb 2020 12:31:34
+Remote Branches:
+  origin/HEAD -> origin/master
+  origin/master
+Local Branches:
+* master
+Git graph && Last commit:
+* commit 483e704312995a07a63c10c844308334f13a8960
+| Author: Marton Szuts <mszuts@oncodepasnous.home>
+| Date:   Sun Jan 12 22:51:00 2020 +0100
+| 
+|     final push, added -h option, .legend and messages. DONE
+| 
+* commit 5f5225cbdef6acdbc79a795f5356b2ba83248feb
+| Author: Marton Szuts <mszuts@oncodepasnous.home>
+| Date:   Sun Jan 12 20:43:43 2020 +0100
+| 
+|     reset score
+| 
+* commit 3a4e35492d08441351779bda6bb90e66a5f5b4d7
+| Author: Marton Szuts <mszuts@oncodepasnous.home>
+| Date:   Sun Jan 12 20:43:11 2020 +0100
+| 
+|     infinite mode added and fixed, need to do the -h option and project is finaly done 100%
+| 
+* commit 1aac3d68425f96298f90bbe69661a07d2749b621
+| Author: Marton Szuts <mszuts@localhost.localdomain>
+| Date:   Sun Jan 12 09:24:16 2020 +0100
+| 
+|     finished game , need to do level design, and its done, and -h option
+| 
+* commit 2a3223fea70110e428086ca70eb076fd4cbbf081
+  Author: Marton Szuts <mszuts@oncodepasnous.home>
+  Date:   Sat Dec 14 16:45:33 2019 +0100
+  
+      coding style
