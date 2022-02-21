@@ -1,0 +1,7 @@
+                                                                                                                                                                
+                                                                                                      NP        NP     NP       QQQ                             
+                                                                                                 NP            QQQQ   QQQQ      NOP       Q                     
+                                               B                                     Q      NP              NBBBBBBBBBBBBBBBF         DBBBF                     
+                                           B   A                           Q      DBBBBBF                    CAAAAAAAAAAAAAAIJBBBBBBBGHAAAEQ          Q         
+                   Q         QQ      QQBSSSASSSA        QQ      DBBBFSSSDBBBBBFSSSCAAAAAE                    CAAAAAAAAAAAAAAAAAAAAAAAAAAAAIJBBBOP   NOP     Q   
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAJBGAJBGAJBBBBBBBBBBBBBBGHAAAIJBGHAAAAAIJBGHAAAAAE                    CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE          NOOP  D

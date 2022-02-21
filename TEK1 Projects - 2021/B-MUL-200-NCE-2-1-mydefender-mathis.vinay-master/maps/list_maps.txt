@@ -1,0 +1,3 @@
+maps/garden
+maps/mountain
+maps/beach

@@ -1,0 +1,11 @@
+LÉGENDE DE MAP:
+
+' ' : Vide, represente un espace vide ou aucun bloc n'est dessiné.
+'1' : Sol, Représentation du sol, ici pas de blocs symbolisent le sol, mais cela est tout a fait modulable. Ce caractère sert essentiellement a représenter le sol visuellement dans le fichier.
+'2' : Obstacle, Chaque '2' représente un obstacle, ici un slime/blob.
+
+CRÉER UNE MAP:
+
+-La map doit impérativement contenir 1440 caractère sur 6 lignes ce qui donne des lignes de 240 caractères.
+-Le sol est symbolisé par des 1, écrire une ligne de 1 sur la dernière ligne afin de mieux se repérer.
+-Placer des obstacles en placant des 2 aléatoirement sur la map. Ici le principal obstacle est un slime/blob, il faut donc le dessiner sur le sol. (Donc sur les 1).

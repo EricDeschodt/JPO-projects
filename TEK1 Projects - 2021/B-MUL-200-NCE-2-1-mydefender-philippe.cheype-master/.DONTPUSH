@@ -1,0 +1,107 @@
+# TODO
+
+## Général :
+[x] Trouver pourquoi ya des balles qui touchent pas les zombies
+[x] Animation de bullet a pas le temps de se finir quand elle tue un zombies
+[x] Quand zombie passe derrire tourelles elles tirent plus jamais
+[x] Fixer les dégats sur zombie, le score et les kills qui augmentent trop (boucle trop dessus)
+[x] Gerer la vie du joueur (condition de perte)
+[/] Gerer hitbox des gros zombies (on peux pas leurs tirer dans les pieds)
+[x] Gerer les traps
+[x] Collisions + Dégats sur les tours
+[x] Les bombes font du feu et les pics des lasers wtf
+[x] Prix augmente quand tu amméliore
+[x] Faire en sorte que les balles de glace ralentises les enemies et pas de dégats
+[x] Les pics tuent pas les enemies
+[x] Gros zombies bare de vie /2 bug
+[x] Préciser que le jeu ne se joue que avec souris
+[x] Début de vagues (60s de pause au début + bouton pour skip l'attente)
+[x] Refaire le How To Play vu qu'on a fais des modifs dans le jeu
+[x] Les bonus (bombe & coeurs)
+[ ] Ajouter des sons
+[ ] Les tours arretent de tirer
+
+## PAS OBLIGATOIRE mais ca serait cool mdr :
+[ ] Zombies ne donnent pas d'argent quand ils sont tuées
+[ ] Zombies tuées par pics et bombes donnent pas d'argent
+[ ] Nuke ne donne pas d'argent quand les zombies sont tuées
+[ ] Afficher le prix des tours
+[ ] Peux pas poser nuke & coeurs sur autres troupes
+[ ] FIXER les dégats du laser et pyro
+[ ] Aniamtion d'explosion pour petite bombe
+[ ] Ajouter le sang
+[ ] Dégats de glace scale avec le niveau
+[ ] Deplacer les elements de vie dans gm à gm->health_t
+[ ] Gerer la vie (couleur 1/3 rouge, 1/3 orange, 1/3 vert)
+[ ] Vagues (difficulté vitesse dégats) (condition de win)
+[ ] Boss
+[ ] Game Over screen
+[ ] High Score
+[ ] Mettre un logo au jeu
+
+## FINAL :
+[ ] Balancer le jeu toutes les stats
+[ ] Balancer toutes les statistiques (+ avoir une difficulté qui augmente au cours du temps)
+[ ] Remettre l'argent a 1000 (ou autre)
+[ ] Remettre la musique du menu (j'ai mis le son a 0)
+[x] Remettre le menu
+[ ] Remettre la vitesse de spawn des zombies
+
+## FINAL FINAL :
+[ ] Free tout
+[ ] Valgrind
+[ ] Coding style
+[ ] Enlever les prints de debug + deheader + comments
+[ ] Optimisation
+[ ] Enlever les FPS + ENLEVER -g3
+[ ] Compresser tout les fichiers et les sons
+[ ] Supprimer ce fichier
+[ ] Verifier qu'on a pas push des fichiers inutiles
+
+###############################################################"
+
+## MANDATORY ++
+
+[x] The player is a builder who must defend his castle,
+[x] Enemy waves will regularly appear from one side of the playground.
+[x] The player must buy and place buildings on the playground grid to block/kill enemies,
+[x] Buildings can be offensive (towers attacking) or defensive (basic walls),
+[x] When the castle is reached by an enemy, it takes damages,
+[x] If the castle reaches 0 hit points the player loose
+
+## MANDATORY
+
+[x] the window can be closed using events,
+[x] the game manages the input from the mouse click and keyboard,
+[x] the game contains animated sprites rendered thanks to sprite sheets,
+[x] animations in your program are frame rate independent,
+[x] animations and movements in your program are timed by clocks.
+
+## MUST
+
+[x] a starting menu with at least two buttons, one to launch a game, and one to quit the game,
+[x] an escape key to pause the game when launched,
+[x] a menu when the game is paused with at least three buttons, one to resume the game, one to go to the starting menu and the one to leave the game,
+[x] at least 4 different types of buildings (e.g. walls, slowing towers, damaging towers, etc. . .),
+[x] a building menu showing the different available buildings and their price,
+[ ] at least 2 different sound effects, and one looping background music.
+[x] The starting menu and the game must be two different scenes.
+
+## SHOULD
+
+[x] a windows that sticks between 800x600 pixels and 1920x1080 pixels.
+[x] a “How To play” menu, explaining how to play your game.
+[ ] a stored scoreboard.
+[ ] a scoreboard displayed at the end of a game, or thanks to a scoreboard button in the starting menu.
+[ ] buttons with at least three visual states: idle, hover, and clicked.
+[x] a way to skip eventual cut scenes or an animated intro.
+[x] different types of enemies with different speed and hit points.
+
+## COULD
+
+[x] let the user upgrade its buildings,
+[ ] load buildings from files,
+[ ] take buildings files as command line argument,
+[ ] take buildings files from a menu inside the game,
+[ ] have a skill tree, unlock different types of buildings,
+[x] have a “settings” menu that contains sound options and/or screen size options.

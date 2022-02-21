@@ -1,0 +1,16 @@
+each map must be made up of 7 lines, and have a length per line of 160
+characters. The following elements can be represented on this map:
+' ' : empty
+'A' to 'P': platform (kills if hit)
+'Q' to 'S': death trap
+
+illustrated diagram of blocks and elements :
+https://hosting.webspell.fr/images/2021/01/10/cc5c621bcc96fee30015ab864b1e4e1d.png
+
+the difference between the different elements in their appearance : to know it,
+refer to the tileset.png file, in the assets folder. each block is arranged in
+alphabetical order. Thus, the first one corresponds to A', the second to 'B', etc.
+
+the first column must be empty, except for the last line, which must be contain
+element B. We recommend continuing this schema over several columns, to give
+the player time to prepare.

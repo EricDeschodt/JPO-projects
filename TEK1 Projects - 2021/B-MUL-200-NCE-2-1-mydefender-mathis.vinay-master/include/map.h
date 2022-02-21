@@ -1,0 +1,11 @@
+/*
+** EPITECH PROJECT, 2021
+** B-MUL-200-NCE-2-1-mydefender-mathis.vinay
+** File description:
+** Header map
+*/
+
+#ifndef B_MUL_200_NCE_2_1_MYDEFENDER_MATHIS_VINAY_MAP_H
+#define B_MUL_200_NCE_2_1_MYDEFENDER_MATHIS_VINAY_MAP_H
+
+#endif //B_MUL_200_NCE_2_1_MYDEFENDER_MATHIS_VINAY_MAP_H
